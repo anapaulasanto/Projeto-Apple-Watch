@@ -20,7 +20,7 @@
 
 <br><br>
 
-### Ajustes e melhorias
+## 📝 Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Mudança de imagem de acordo com a cor da pulseira escolhida
