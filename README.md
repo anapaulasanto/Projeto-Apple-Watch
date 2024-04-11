@@ -1,15 +1,33 @@
 <h1 align="center">Apple Watch Page</h1>
- <p align="center"> Pagina do Apple Watch </p>
+<h4 align="center"><a href="https://anapaulasanto.github.io/Projeto-Apple-Watch/">Clique para visitar o projeto</a></h4>
+<br><br>
+
 
  <div align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
  </div>
+ <br><br>
  
  <div align="center">
   <img alt="banner" title="banner" src="./imagens/banner1.png">
 </div>
+
+<br>
+
+> Simula a página de compra do Apple Watch, com interações nos botôes, utilizando JavaScript.
+
+<br><br>
+
+### Ajustes e melhorias
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [ ] Mudança de imagem de acordo com a cor da pulseira escolhida
+- [ ] Criação da página de carrinho de compras
+- [ ] Ação de adicionar produto no carrinho
+
+<br><br>
   
 <h3>Autor</h3>
 
